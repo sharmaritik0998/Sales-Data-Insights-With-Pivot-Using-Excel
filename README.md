@@ -44,4 +44,4 @@ Using Pivot Tables, the project breaks down:
 ## 📬 Contact
 For suggestions or collaboration:
 - 📧 [sharmaritik0998@gmail.com]
-- 🌐 [https://www.linkedin.com/sharmaritik0998]
+- 🌐 [https://www.linkedin.com/in/sharmaritik0998]
